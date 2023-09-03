@@ -6,7 +6,6 @@
 ## About Me
 Mainly interested in web3 and blockchain programming. It all started when I got into NFT trading in early 2021 and got blown away by the tech behind it. Since then, I've grown my interest for smart contracts, juggling my studies and exams while geeking out over web3.\
 I'm now looking forward to learning new things more in depth and getting into smart contracts auditing as soon as I'm done with my bachelor degree.\
-p.s: my heart belongs to pawsome doggos and kittens as you can see in my pfp\
 Connect with me:
 
 
